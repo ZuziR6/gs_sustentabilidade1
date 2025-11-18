@@ -68,3 +68,10 @@ Possibilidade de reinvestir a economia
 
 4. Execução da Análise
 python src/analise_consumo.py
+
+Ele gera:
+gráficos de consumo, desperdícios estimados, tabela de economia potencial.
+
+5. Documentação
+O relatório completo está disponível em:
+docs/relatório (link do pdf)
